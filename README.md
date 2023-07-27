@@ -10,7 +10,7 @@ The goal here is to clone Youtube website interface.
 
 ## Branches
 + 'main' branch will contains the final youtube rendered view
-+ 'tutorial' is where I am testing my knowledge
++ 'tutorial' is where I am testing my knowledge (The code in here won't necessarly match the youtube clone final design)
 + 'django' will have the react user interface combined with django backend
 + 'symfony' goes the same as 'django' but with symfony backend
 + 'express' with node and express.js
