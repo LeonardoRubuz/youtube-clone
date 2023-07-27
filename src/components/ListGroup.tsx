@@ -2,6 +2,11 @@
 
 
 function ListGroup() {
+    const items = [
+        'New York',
+        'San Francisco ' 
+    ]
+    
     return (
         <>
             <h1>List</h1>
