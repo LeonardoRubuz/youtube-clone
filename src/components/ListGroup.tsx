@@ -1,9 +1,9 @@
-import { Fragment } from "react";
+//import { Fragment } from "react";
 
 
 function ListGroup() {
     return (
-        <Fragment>
+        <>
             <h1>List</h1>
             <ul className="list-group">
                 <li className="list-group-item">Item 1</li>
@@ -12,7 +12,7 @@ function ListGroup() {
                 <li className="list-group-item">Item 4</li>
                 <li className="list-group-item">Item 5</li>
             </ul>
-        </Fragment>
+        </>
     );
 }
 
