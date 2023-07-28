@@ -17,7 +17,7 @@ function ListGroup() {
     let selectedIndex = 0;
     
     // Hook
-    useState         
+    useState(-1)         
 
     return (
         <>
